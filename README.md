@@ -3,6 +3,7 @@ Here is the documentation and API code
 
 
 Top 10 Free Templates for API Documentation
+http://techslides.com/top-10-free-templates-for-api-documenation
 
 
 <p>Do you need to create API docs for your RESTful API?  Want to automatically generate API documentation? Today, I am going to share some free templates that are designed to showcase your API.  Good documentation is <a href="http://blog.parse.com/learn/engineering/designing-great-api-docs/">really</a> <a href="http://bradfults.com/the-best-api-documentation/">important</a> so start with a good foundation.  These API resources are simple, clean, leverage best practices, and will make your API users happy.<br>
